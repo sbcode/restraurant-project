@@ -1,0 +1,104 @@
+/*body{
+	background-image: url("img/fabric_plaid.png");
+
+}*/
+
+h1{
+	font-family:cursive;
+	color: #A60000;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+}
+
+
+.panel h3{
+	color: #009999;
+	text-align: center;
+}
+
+.top-bar {
+background-color: 
+}
+
+.restaurant-head{
+	padding-top: 3%;
+	padding-bottom: 3%;
+
+}
+
+.address{
+	text-align: center;
+	padding-top: 5px;
+	color:	#009999;
+
+}
+
+.info {
+	/*height: 400px;*/
+	text-align: center;
+	background-color: white;
+	border:	none;
+
+}
+.button{
+	background-color: #009999;
+	margin:	15px;
+	
+}
+/*.button:hover{
+	background-color: #a60000;
+}*/
+.example-orbit{
+	height: ;
+}
+
+.specials{
+	height: 150px;
+	text-align: center;
+	background-color: white;
+	border: none;
+}
+
+.music{
+	height: 150px;
+	text-align: center;
+	background-color: white;
+	border: none;
+}
+
+.social{
+	height: 150px;
+	text-align: center;
+	background-color: white;
+	border: none;
+}
+
+.sign{
+	height: 100px;
+}
+
+.footer{
+	text-align: center;
+	height: 50px;
+	background-color: #333333;
+	padding: 0px;
+
+}
+.footer p{
+	color:	white;
+}
+
+.phone {
+	padding-top: 10px;
+}
+a{
+	color:white;
+}
+.email{
+	padding-top: 10px;
+}
+
+}
+/*a:hover {
+    color: black; }*/
